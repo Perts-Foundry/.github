@@ -1,23 +1,8 @@
-<p align="center">
-  <a href="https://pertsfoundry.com">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/perts-foundry-horizontal-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="./assets/perts-foundry-horizontal-light.svg">
-      <img alt="Perts Foundry" src="./assets/perts-foundry-horizontal-light.svg" width="440">
-    </picture>
-  </a>
-</p>
-
-<h1 align="center">Build. Scale. Own.</h1>
-
-<p align="center"><em>Your team, extended.</em></p>
-
-<p align="center">DevOps, Cloud Engineering, and AI-Augmented Automation consulting.</p>
-
-<p align="center">
-  <a href="https://pertsfoundry.com"><img alt="Website" src="https://img.shields.io/badge/pertsfoundry.com-111111?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
-  <a href="https://pertsfoundry.com/contact/"><img alt="Contact" src="https://img.shields.io/badge/Start_a_conversation-0A66C2?style=for-the-badge&logo=maildotru&logoColor=white"></a>
-</p>
+<div align="center">
+  <a href="https://pertsfoundry.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/perts-foundry-horizontal-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/perts-foundry-horizontal-light.svg"><img alt="Perts Foundry" src="./assets/perts-foundry-horizontal-light.svg" width="520"></picture></a>
+  <h1>Build. Scale. Own.</h1>
+  <p><em>Your team, extended.</em></p>
+</div>
 
 ---
 
