@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="88" viewBox="0 0 440 88" role="img" aria-labelledby="cta-title">
+  <title id="cta-title">Start a conversation</title>
+  <defs>
+    <linearGradient id="ctaGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3B82F6"/>
+      <stop offset="100%" stop-color="#2563EB"/>
+    </linearGradient>
+    <filter id="ctaShadow" x="-10%" y="-10%" width="120%" height="140%">
+      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#1E3A8A" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+  <rect x="4" y="4" width="432" height="80" rx="40" ry="40" fill="url(#ctaGradient)" filter="url(#ctaShadow)"/>
+  <text x="220" y="44" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-weight="700" font-size="24" letter-spacing="0.5" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">Start a conversation  →</text>
+</svg>
