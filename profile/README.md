@@ -21,13 +21,17 @@ Perts Foundry is a boutique consultancy that helps teams ship infrastructure wit
 
 Whether you are standing up a greenfield platform, hardening an existing one, or integrating AI into your engineering workflow, we bring the deep specialist work usually reserved for larger firms to small and mid-sized teams.
 
-## What we do
+[**Learn more about us →**](https://pertsfoundry.com/about/)
 
-- **Infrastructure as Code.** Terraform and OpenTofu across Cloudflare, GCP, AWS, and GitHub. Modular, reviewed, tested.
-- **Platform & Developer Experience.** Golden paths, internal tooling, and workflows that reduce time-to-first-commit.
-- **CI/CD & Automation.** Comment-driven pipelines, policy-as-code, and release engineering that scales beyond tribal knowledge.
-- **AI-Augmented Engineering.** Claude-powered agents, code review automation, and tooling that amplifies human engineers rather than replacing them.
-- **Cloud Architecture.** Reliability, cost, and security reviews for production systems.
+## [What we do](https://pertsfoundry.com/services/)
+
+- **[Infrastructure as Code.](https://pertsfoundry.com/services/infrastructure-as-code/)** Terraform and OpenTofu across Cloudflare, GCP, AWS, and GitHub. Modular, reviewed, tested.
+- **[DevSecOps & Platform Engineering.](https://pertsfoundry.com/services/devsecops-devops/)** Golden paths, internal tooling, and secure-by-default workflows that reduce time-to-first-commit.
+- **[CI/CD & Automation.](https://pertsfoundry.com/services/cicd-automation/)** Comment-driven pipelines, policy-as-code, and release engineering that scales beyond tribal knowledge.
+- **[AI-Augmented Engineering.](https://pertsfoundry.com/services/ai-augmented-engineering/)** Claude-powered agents, code review automation, and tooling that amplifies human engineers rather than replacing them.
+- **[Cloud Infrastructure.](https://pertsfoundry.com/services/cloud-infrastructure/)** Reliability, cost, and security reviews for production systems on AWS, GCP, and the edge.
+
+See the [full services catalog](https://pertsfoundry.com/services/) for Kubernetes, FinOps, cloud migration, incident response, and agile coaching engagements.
 
 ## Tech we reach for
 
@@ -47,6 +51,8 @@ Whether you are standing up a greenfield platform, hardening an existing one, or
 ### [`infrastructure-showcase`](https://github.com/Perts-Foundry/infrastructure-showcase)
 
 Terraform IaC showcase: Cloudflare, GitHub, and Checkly managed end-to-end with comment-driven CI/CD. A working reference for how we think about modular IaC, review workflows, and operational guardrails.
+
+For longer-form project write-ups, see our [**case studies**](https://pertsfoundry.com/case-studies/) and [**engineering blog**](https://pertsfoundry.com/blog/) on the website.
 
 > More public repositories will land here as projects graduate from private development.
 
