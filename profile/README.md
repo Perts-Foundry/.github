@@ -26,7 +26,7 @@ See the [full services catalog](https://pertsfoundry.com/services/) for Kubernet
 
 ## Tech we reach for
 
-<p>
+<p align="center">
   <img alt="Terraform" src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
   <img alt="OpenTofu" src="https://img.shields.io/badge/OpenTofu-FFDA18?style=for-the-badge&logo=opentofu&logoColor=black" />
   <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
