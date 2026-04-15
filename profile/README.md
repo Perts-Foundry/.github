@@ -53,6 +53,6 @@ Have a project in mind, or want a second opinion on an existing one?
 
 <p align="center">
   <a href="https://pertsfoundry.com/contact/">
-    <img alt="Start a conversation" src="./assets/cta-start-a-conversation.svg" width="440">
+    <img alt="Start a conversation" src="./assets/cta-start-a-conversation.svg" width="340">
   </a>
 </p>
