@@ -1,7 +1,7 @@
 <div align="center">
-  <a href="https://pertsfoundry.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/perts-foundry-horizontal-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/perts-foundry-horizontal-light.svg"><img alt="Perts Foundry" src="./assets/perts-foundry-horizontal-light.svg" width="520"></picture></a>
+  <a href="https://pertsfoundry.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/perts-foundry-horizontal-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/perts-foundry-horizontal-light.svg"><img alt="Perts Foundry" src="./assets/perts-foundry-horizontal-light.svg" width="440"></picture></a>
   <h1>Build. Scale. Own.</h1>
-  <p><em>Your team, extended.</em></p>
+  <h3><i>Your team, extended.</i></h3>
 </div>
 
 ---
@@ -14,7 +14,7 @@ The friction your engineers assume is just how things work? That is where we sta
 
 [**Learn more about us →**](https://pertsfoundry.com/about/)
 
-## [What we do](https://pertsfoundry.com/services/)
+## What we do
 
 - **[Infrastructure as Code.](https://pertsfoundry.com/services/infrastructure-as-code/)** Terraform and OpenTofu across Cloudflare, GCP, AWS, and GitHub. Modular, reviewed, tested.
 - **[DevSecOps & Platform Engineering.](https://pertsfoundry.com/services/devsecops-devops/)** Golden paths, internal tooling, and secure-by-default workflows that reduce time-to-first-commit.
