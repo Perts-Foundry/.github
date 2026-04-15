@@ -53,6 +53,6 @@ Have a project in mind, or want a second opinion on an existing one?
 
 <p align="center">
   <a href="https://pertsfoundry.com/contact/">
-    <img alt="Start a conversation" src="https://img.shields.io/badge/Start_a_conversation_%E2%86%92-2563EB?style=for-the-badge&logoColor=white" height="56">
+    <img alt="Start a conversation" src="./assets/cta-start-a-conversation.svg" width="440">
   </a>
 </p>
