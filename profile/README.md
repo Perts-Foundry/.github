@@ -1,25 +1,31 @@
-<div align="center">
+<p align="center">
+  <a href="https://pertsfoundry.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/perts-foundry-horizontal-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="./assets/perts-foundry-horizontal-light.svg">
+      <img alt="Perts Foundry" src="./assets/perts-foundry-horizontal-light.svg" width="440">
+    </picture>
+  </a>
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/perts-foundry-horizontal-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/perts-foundry-horizontal-light.svg">
-  <img alt="Perts Foundry" src="./assets/perts-foundry-horizontal-light.svg" width="440">
-</picture>
+<h1 align="center">Build. Scale. Own.</h1>
 
-### DevOps, Cloud Engineering, and AI-Augmented Automation
+<p align="center"><em>Your team, extended.</em></p>
 
-[![Website](https://img.shields.io/badge/pertsfoundry.com-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://pertsfoundry.com)
-[![Contact](https://img.shields.io/badge/Start_a_conversation-0A66C2?style=for-the-badge&logo=maildotru&logoColor=white)](https://pertsfoundry.com/contact/)
+<p align="center">DevOps, Cloud Engineering, and AI-Augmented Automation consulting.</p>
 
-</div>
+<p align="center">
+  <a href="https://pertsfoundry.com"><img alt="Website" src="https://img.shields.io/badge/pertsfoundry.com-111111?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+  <a href="https://pertsfoundry.com/contact/"><img alt="Contact" src="https://img.shields.io/badge/Start_a_conversation-0A66C2?style=for-the-badge&logo=maildotru&logoColor=white"></a>
+</p>
 
 ---
 
 ## About
 
-Perts Foundry is a boutique consultancy that helps teams ship infrastructure with confidence. We design, build, and operate cloud platforms grounded in Infrastructure as Code, reliable CI/CD, and pragmatic automation, augmented by AI where it genuinely earns its keep.
+The friction your engineers assume is just how things work? That is where we start. Fragile pipelines, rising cloud costs, container sprawl, security gaps, AI tools gathering dust after a failed rollout, manual processes that should have been automated years ago. Whatever is slowing your team down, we have solved it before, across hundreds of projects and multiple clouds.
 
-Whether you are standing up a greenfield platform, hardening an existing one, or integrating AI into your engineering workflow, we bring the deep specialist work usually reserved for larger firms to small and mid-sized teams.
+**We work as part of your team, not outside it.** Perts Foundry brings DevSecOps and AI-augmented engineering expertise to build what you need, scale what you have, and make sure you own the result. The deep specialist work usually reserved for larger firms, available to small and mid-sized teams.
 
 [**Learn more about us →**](https://pertsfoundry.com/about/)
 
