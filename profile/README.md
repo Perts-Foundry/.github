@@ -1,6 +1,10 @@
 <div align="center">
 
-# Perts Foundry
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/perts-foundry-horizontal-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/perts-foundry-horizontal-light.svg">
+  <img alt="Perts Foundry" src="./assets/perts-foundry-horizontal-light.svg" width="440">
+</picture>
 
 ### DevOps, Cloud Engineering, and AI-Augmented Automation
 
