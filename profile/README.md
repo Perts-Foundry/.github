@@ -51,8 +51,8 @@ For longer-form project write-ups, see our [**case studies**](https://pertsfound
 
 Have a project in mind, or want a second opinion on an existing one?
 
-### [**Start a conversation →**](https://pertsfoundry.com/contact/)
-
-- **Web:** [pertsfoundry.com](https://pertsfoundry.com)
-- **Email:** [contact@pertsfoundry.com](mailto:contact@pertsfoundry.com)
-- **Location:** United States, remote-first.
+<p align="center">
+  <a href="https://pertsfoundry.com/contact/">
+    <img alt="Start a conversation" src="https://img.shields.io/badge/Start_a_conversation_%E2%86%92-2563EB?style=for-the-badge&logoColor=white" height="56">
+  </a>
+</p>
